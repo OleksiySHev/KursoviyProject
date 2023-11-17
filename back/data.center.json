@@ -1,0 +1,147 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Нове Дослідження: Розробка Високоефективних Квантових Комп'ютерів",
+      "imgSource": "https://www.viti.edu.ua/img/s_c/f_4.jpg",
+      "text": "Науковці Наукового центру зв’язку інституту успішно завершили розробку високоефективних квантових комп'ютерів, які відкривають нові перспективи для обчислювальних технологій. Це може значно поліпшити області криптографії та обчислювальної науки.",
+      "date": 2020
+    },
+    {
+      "id": 2,
+      "title": "Інноваційна Технологія 6G: Робота Над Швидкісним та Надійним Зв'язком Майбутнього",
+      "imgSource": "https://www.viti.edu.ua/img/s_c/f_2.jpg",
+      "text": "Науковий центр зв’язку інституту займається активним розвитком інноваційної технології 6G. Робочі групи вже досягли значних успіхів у створенні швидкісного та надійного бездротового зв'язку, що визначатиме майбутнє зв'язку.",
+      "date": 2020
+    },
+    {
+      "id": 3,
+      "title": "Старт Проекту Супутникового Зондування Землі для Наукових Досліджень",
+      "imgSource": "https://www.viti.edu.ua/img/news/3296/3296_1.jpg",
+      "text": "Науковці Наукового центру зв’язку інституту оголосили про старт нового проекту супутникового зондування Землі. Цей проект дозволить здійснювати детальні наукові дослідження кліматичних змін, екосистем та інших аспектів нашої планети.",
+      "date": 2021
+    },
+    {
+      "id": 4,
+      "title": "Розробка Нових Методів Кіберзахисту: Запобігання Кібератак та Захист Інформації",
+      "imgSource": "https://www.viti.edu.ua/img/news/3235/3235_1.jpg",
+      "text": "Науковий центр зв’язку інституту виводить на новий рівень методи кіберзахисту. За допомогою інноваційних підходів вдалося розробити ефективні засоби запобігання кібератак та захисту конфіденційної інформації в мережі.",
+      "date": 2022
+    },
+    {
+      "id": 5,
+      "title": "Успіх у Розробці Технологій Квантового Зв'язку для Безпечного Передавання Інформації",
+      "imgSource": "https://nlu.edu.ua/wp-content/uploads/2023/08/1.jpg",
+      "text": "Науковці Наукового центру зв’язку інституту оголосили про значний успіх у розробці технологій квантового зв'язку. Ці технології відкривають нові можливості для безпечного передавання інформації, що є важливим кроком у напрямку кібербезпеки.",
+      "date": 2023
+    },
+    {
+      "title": "Kddd",
+      "imgSource": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxx0TQ2QhXD24HvOZgzTACYJsTlZGKwfy5WQ&usqp=CAU",
+      "text": "ывывыв",
+      "date": 2023,
+      "id": 6
+    }
+  ],
+  "equipment": [
+    {
+      "id": 1,
+      "name": "Equipment astra",
+      "color": "red",
+      "height": 50,
+      "width": 30,
+      "frequency": "20 MHz",
+      "origin": "China"
+    },
+    {
+      "id": 2,
+      "name": "Equipment stellaris",
+      "color": "green",
+      "height": 45,
+      "width": 25,
+      "frequency": "18 MHz",
+      "origin": "Spain"
+    },
+    {
+      "id": 3,
+      "name": "Equipment luna",
+      "color": "purple",
+      "height": 55,
+      "width": 28,
+      "frequency": "22 MHz",
+      "origin": "France"
+    },
+    {
+      "id": 4,
+      "name": "Equipment solis",
+      "color": "yellow",
+      "height": 48,
+      "width": 32,
+      "frequency": "19 MHz",
+      "origin": "Italy"
+    },
+    {
+      "id": 5,
+      "name": "Equipment sidera",
+      "color": "blue",
+      "height": 60,
+      "width": 35,
+      "frequency": "25 MHz",
+      "origin": "Greece"
+    },
+    {
+      "id": 6,
+      "name": "Equipment nebula",
+      "color": "white",
+      "height": 52,
+      "width": 30,
+      "frequency": "21 MHz",
+      "origin": "Germany"
+    },
+    {
+      "id": 7,
+      "name": "Equipment galaxia",
+      "color": "orange",
+      "height": 55,
+      "width": 29,
+      "frequency": "23 MHz",
+      "origin": "Portugal"
+    },
+    {
+      "id": 8,
+      "name": "Equipment cometa",
+      "color": "pink",
+      "height": 50,
+      "width": 31,
+      "frequency": "20 MHz",
+      "origin": "Sweden"
+    },
+    {
+      "id": 9,
+      "name": "Equipment interstella",
+      "color": "gray",
+      "height": 58,
+      "width": 33,
+      "frequency": "24 MHz",
+      "origin": "Norway"
+    },
+    {
+      "id": 10,
+      "name": "Equipment cosmo",
+      "color": "black",
+      "height": 53,
+      "width": 34,
+      "frequency": "22 MHz",
+      "origin": "Ukraine"
+    },
+    {
+      "name": "Fsdf",
+      "color": "black",
+      "height": 17,
+      "width": 21,
+      "frequency": "15",
+      "origin": "Ukraine",
+      "id": 11
+    }
+  ]
+}
