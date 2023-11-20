@@ -1,0 +1,33 @@
+.newsElementPage {
+    width: 800px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.newsElementPage__title {
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    color: #3d986f;
+    font-weight: bold;
+}
+
+.newsElementPage__img {
+    width: 100%;
+}
+
+.newsElementPage__text {
+    width: 100%;
+    font-size: 20px;
+    text-align: start;
+}
+
+.newsElementPage__date {
+    width: 100%;
+    color: #3d986f;
+    font-size: 40px;text-align: start;
+}

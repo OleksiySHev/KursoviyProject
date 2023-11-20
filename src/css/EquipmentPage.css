@@ -1,0 +1,16 @@
+.equipmentPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 1100px;
+    height: 100%;
+}
+
+.equipmentPage__title {
+    font-size: 30px;
+    width: 100%;
+    color: #3d986f;
+    font-weight: bold;
+    text-align: center;
+}

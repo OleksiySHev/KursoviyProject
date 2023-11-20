@@ -1,0 +1,71 @@
+.modal-button {
+    padding: 20px 50px 20px 50px;
+    border-radius: 10px;
+    border: none;
+    background-color: #3d986f;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.modal-button:hover {
+    scale: 1.1;
+    transition-duration: 300ms;
+    cursor: pointer;
+
+}
+
+.modal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    width: 100%;
+}
+
+.modal-container {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+}
+
+.modal-container label {
+    display: flex;
+    gap: 50px;
+    font-size: 20px;
+    color: #3d986f;
+    font-weight: bold;
+}
+
+.modal-container label input {
+    border: none;
+    border-bottom: 1px #3d986f groove;
+    border-radius: 20px;
+    padding: 0 10px 0 10px;
+    width: 300px;
+    font-size: 20px;
+}
+
+.modal-container label input:focus {
+    outline: none;
+    background-color: transparent;
+}
+
+.modal-close {
+    display: flex;
+    justify-content: end;
+    width: 100%;
+    align-items: center;
+}
+
+.modal-close button {
+    background-color: #3d986f;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    padding: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}

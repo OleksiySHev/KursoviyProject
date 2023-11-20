@@ -1,0 +1,31 @@
+.newsBlock {
+    width: 100%;
+    height: max-content;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    cursor: pointer;
+    transition-duration: 300ms;
+}
+
+.newsBlock:hover {
+    scale: 1.1;
+    transition-duration: 300ms;
+}
+
+
+.newsBlock img {
+    width: 100%;
+    height: 200px;
+}
+
+.newsBlock__title {
+    min-height: 70px;
+    height: min-content;
+}
+
+.newsBlock__date {
+    color: #3d986f;
+    font-weight: bold;
+}
